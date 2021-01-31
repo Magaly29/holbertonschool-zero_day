@@ -1,0 +1,1 @@
+Esta carpeta contiene lo que pasa cuando se ejecuta el codigo uname por si solo
