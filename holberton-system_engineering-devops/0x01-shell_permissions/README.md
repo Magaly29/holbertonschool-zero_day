@@ -1,0 +1,1 @@
+These folders were the tasks of the Holberton School institution and at the moment they do not have any content or information
